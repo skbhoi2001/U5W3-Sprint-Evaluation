@@ -1,0 +1,25 @@
+.categoryButton{
+    color: blue;
+    padding: 5px;
+    background-color: aqua;
+    border: 0;
+    margin: 5%;
+}
+.category{
+    width: 40%;
+    margin: auto;
+    display: flex;
+    gap: 10px;
+}
+.heading{
+    font-size: 30px;
+}
+.page{
+    display:flex ;
+    gap: 50px;
+    width: 20%;
+    margin: auto;
+}
+.page>button{
+    margin: 10px;
+}

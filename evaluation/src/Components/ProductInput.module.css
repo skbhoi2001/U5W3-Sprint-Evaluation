@@ -1,0 +1,30 @@
+form{
+    border: 5px solid black;
+    width: 50%;
+    margin: auto;
+    background-color: aquamarine;
+}
+form>div{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    gap: 30px;
+    
+}
+form>div>label{
+    font-size: 25px;
+    width: 30%;
+    margin: 2%;
+    text-align: left;
+}
+form>div>input,.dropdown{
+    width: 50%;
+    margin: 2.5%;
+}
+
+.submit{
+    width: 30%;
+    margin: 5%;
+    padding: 2%;
+    background-color: yellow;
+}
